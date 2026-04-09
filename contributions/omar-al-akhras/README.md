@@ -1,0 +1,3 @@
+# Jordan Population Growth
+
+This chart presents the growth of Jordan’s population over time. The data shows a consistent upward trend, with faster growth after 2010. This is important because population growth directly affects resources such as housing, employment, and public services. I selected a line chart since it clearly shows trends across years. The key finding is that population growth is accelerating, which may increase pressure on infrastructure. This highlights the need for better long-term planning and resource management in Jordan.
